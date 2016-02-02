@@ -3,7 +3,7 @@
 ## Description
 Bash script to convert sgf game to pdf.
 
-# Feature
+## Feature
 - Print variations
 - Print diagram per comment
 
