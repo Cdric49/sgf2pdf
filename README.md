@@ -28,4 +28,10 @@ make install
 
 ## Usage
 
-``` sgf2pdf.sh <sgf file> ```
+``` ./sgf2pdf.sh <sgf file> ```
+
+## Example
+
+A [sample](https://github.com/Cdric49/sgf2pdf/raw/master/example/Fan-Hui-vs-AlphaGo-20151009-Commentary-An-Younggil.pdf) is generate into example folder (the sgf is from [Go Game Guru]( https://gogameguru.com/go-commentary-deepmind-alphago-vs-fan-hui-game-5/)).
+
+``` ./sgf2pdf.sh Fan-Hui-vs-AlphaGo-20151009-Commentary-An-Younggil.sgf ```
