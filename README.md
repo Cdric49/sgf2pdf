@@ -13,7 +13,7 @@ Bash script to convert sgf game to pdf.
 
 On Debian/Ubuntu : ``` apt-get install sgf2dg```
 
-On RH : ``` yum install sgf2d ```
+On RH : ``` yum install sgf2dg ```
 
 - **sgfutils**
 
