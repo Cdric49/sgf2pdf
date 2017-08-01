@@ -15,13 +15,20 @@ On Debian/Ubuntu : ``` apt-get install sgf2dg```
 
 On RH : ``` yum install sgf2dg ```
 
+
+- **openssl**
+
+On Debian/Ubuntu : ``` apt-get install libssl-dev```
+
+On RH : ``` yum install libssl-dev ```
+
+
 - **sgfutils**
 
 ```
 wget http://homepages.cwi.nl/~aeb/go/sgfutils/sgfutils.tgz
 tar xzvfp sgfutils.tgz
-cd sgfutils
-./configure
+cd sgfutils*
 make
 make install
 ```
